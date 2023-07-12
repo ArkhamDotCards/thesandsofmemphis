@@ -11,16 +11,16 @@ The Trials of Memphis cycle consists of two component 'products':
 
 ---
 
-![](#)
+![https://raw.githubusercontent.com/ArkhamDotCards/thetrialsofmemphis/main/product/enUS/memphis-boxart-investigator.png](#)
 
 The The Trials of Memphis Investigator Expansion contains 100 new player cards, including 5 custom investigators:
 - [Bradley Walker](#): [The First Responder](#)
 - [Nina Sulemani](#): [The Interpreter](#)
 - [Maxwell Blackbriar](#): [The Hitman](#)
-- [Caliope Prescott](#): [The Dancer](#)
+- [Aida Zakaria](#): [The Oracle](#)
 - [Edward Gallagher](#): [The Prospector](#)
 
-![](#)
+![https://raw.githubusercontent.com/ArkhamDotCards/thetrialsofmemphis/main/product/enUS/memphis-boxart-campaign.png](#)
 
 The Trials of Memphis Campaign Expansion contains eight custom scenarios which may be played standalone or combined to form an eight-part campaign:
 
@@ -28,7 +28,7 @@ The Trials of Memphis Campaign Expansion contains eight custom scenarios which m
 - What Lies Beneath
 - The Trial of Osiris
 - The Trial of Horus
-- The Trial of Hapshepsut
+- The Trial of Ra
 - The Trial of Isis
 - The Trial of Seth
 - Second Sun
