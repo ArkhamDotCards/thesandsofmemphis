@@ -4,7 +4,7 @@ Downloads and source files for The Trials of Memphis 'fan-brew' expansion set de
 ### What?
 [The Trials of Memphis](https://www.arkham.cards/trials-of-memphis) is a 'fan-brew' cycle/expansion set designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
 
-The Ghosts of Onigawa cycle consists of two component 'products':
+The Trials of Memphis cycle consists of two component 'products':
 
 - The Trials of Memphis Investigator Expansion
 - The Trials of Memphis Campaign Expansion
@@ -13,16 +13,16 @@ The Ghosts of Onigawa cycle consists of two component 'products':
 
 ![](#)
 
-The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, including 5 custom investigators:
+The The Trials of Memphis Investigator Expansion contains 100 new player cards, including 5 custom investigators:
 - [Bradley Walker](#): [The First Responder](#)
 - [Nina Sulemani](#): [The Interpreter](#)
 - [Maxwell Blackbriar](#): [The Hitman](#)
-- [Akira Arisato](#): [The Medium](#)
+- [Caliope Prescott](#): [The Dancer](#)
 - [Edward Gallagher](#): [The Prospector](#)
 
 ![](#)
 
-The Trials of Memphis Expansion contains eight custom scenarios which may be played standalone or combined to form an eight-part campaign:
+The Trials of Memphis Campaign Expansion contains eight custom scenarios which may be played standalone or combined to form an eight-part campaign:
 
 - Plausible Deniability
 - What Lies Beneath
