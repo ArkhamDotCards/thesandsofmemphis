@@ -2,7 +2,7 @@
 Downloads and source files for The Sands of Memphis 'fan-brew' expansion set designed by the Arkham.cards team to be compatible with Arkham Horror: The Card Game by Fantasy Flight Games.
 
 ### What?
-[The Sands of Memphis](https://www.arkham.cards/trials-of-memphis) is a 'fan-brew' cycle/expansion set designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
+[The Sands of Memphis](https://www.arkham.cards/sands-of-memphis) is a 'fan-brew' cycle/expansion set designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
 
 The Sands of Memphis cycle consists of two component 'products':
 
@@ -13,12 +13,13 @@ The Sands of Memphis cycle consists of two component 'products':
 
 ![](https://raw.githubusercontent.com/ArkhamDotCards/thetrialsofmemphis/main/product/enUS/memphis-boxart-investigator.png)
 
-The Sands of Memphis Investigator Expansion contains 100 new player cards, including 5 custom investigators:
-- [Bradley Walker](#): [The First Responder](#)
-- [Nina Sulemani](#): [The Interpreter](#)
-- [Maxwell Blackbriar](#): [The Hitman](#)
-- [Aida Zakaria](#): [The Oracle](#)
-- [Edward Gallagher](#): [The Prospector](#)
+The Sands of Memphis Investigator Expansion contains 100 new player cards, including 6 custom investigators:
+- [Bradley Walker](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/001e.png?raw=true): [The First Responder](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/001f.png?raw=true)
+- [Nina Sulemani](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/002e.png?raw=true): [The Interpreter](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/002f.png?raw=true)
+- [Maxwell Blackbriar](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/003e.png?raw=true): [The Hitman](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/003f.png?raw=true)
+- [Aida Zakaria](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/004e.png?raw=true): [The Oracle](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/004f.png?raw=true)
+- [Edward Gallagher](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/005e.png?raw=true): [The Prospector](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/005f.png?raw=true)
+- [Carmen Carlyle](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/006e.png?raw=true): [The Firebrand](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/006f.png?raw=true) (Parallel)
 
 ![]([#](https://raw.githubusercontent.com/ArkhamDotCards/thetrialsofmemphis/main/product/enUS/memphis-boxart-campaign.png))
 
