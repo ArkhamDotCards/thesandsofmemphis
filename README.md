@@ -11,7 +11,7 @@ The Sands of Memphis cycle consists of two component 'products':
 
 ---
 
-![](https://raw.githubusercontent.com/ArkhamDotCards/thetrialsofmemphis/main/product/enUS/memphis-boxart-investigator.png)
+![](https://raw.githubusercontent.com/ArkhamDotCards/thesandsofmemphis/main/product/enUS/memphis-boxart-investigator.png)
 
 The Sands of Memphis Investigator Expansion contains 100 new player cards, including 6 custom investigators:
 - [Bradley Walker](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/001e.png?raw=true): [The First Responder](https://github.com/ArkhamDotCards/thetrialsofmemphis/blob/main/img/enUS/no-bleed/001f.png?raw=true)
